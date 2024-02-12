@@ -1,536 +1,527 @@
 preroll:
-- name: Thanksgiving/Happy_Thanksgiving_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Thanksgiving
-- name: New_Years/New_Years_Fireworks_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: New_Years
-- name: New_Years/Happy_New_Year_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: New_Years
-- name: Pride/Netflix_Pride_Colors.mkv
-  status: unused
-  sub_folder: Pride
-- name: Summer/The_Last_Violin_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Summer
-- name: Summer/Summer_Vibes_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Summer
-- name: Funny/Alamo_Drafthouse_Dont_Talk_Universal_Pre-roll.mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/Forever_Plexing_Pre-roll.mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/No_More_Universal_Pre-roll.mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/IT_Crowd_Anti-Piracy_Universal_Pre-roll.mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/Alamo_Drafthouse_Shush_Universal_Pre-roll.mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/Meme_Vibing_Cat_Pre-roll.mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/Alamo_Drafthouse_No_Talking_Universal_Pre-roll.mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/Shia_Laboeuf_V1_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/Keep_Quiet_PSA_Universal_Pre-roll.mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/Nod_of_Approval_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Funny
-- name: Retro/VHS_Home_Theater_Plex.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/VHS_Home_Theater_Plex_V2.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/80s_VHS_Synthwave_Plex.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Retro_VHS_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Retro_Gaming_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Miami_1982_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Discowave_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Regal_Cinemas__Rollercoaster.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/VHS_Home_Theater_Plex_V3.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Miami_Retrowave_Plex.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Synth_Dream_Plex.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Our_Feature_Presentation_Blue.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Outrun_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Uber_VHS_Style_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Cyberpunk_Loading_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Old_Theater_Film_Intro_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Retro_CBS_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/80s_Lambo_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Retro
-- name: Retro/Our_Feature_Presentation.mkv
-  status: used
-  sub_folder: Retro
-- name: Spring/Dancing_Butterflies_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Spring
-- name: Spring/Sakura_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Spring
-- name: Spring/Happy_Easter_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Spring
-- name: Spring/Spring_Brush_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Spring
-- name: Spring/Green_Energy_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Spring
-- name: Spring/Growing_Grass_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Spring
-- name: Spring/Blooming_Flower_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Spring
-- name: Spring/Flower_Field_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Spring
-- name: Active/Preroll_tgeNUho44b.mkv
-  status: unused
-  sub_folder: Active
-- name: Active/Preroll_Lzk4mcWfq8.mkv
-  status: unused
-  sub_folder: Active
-- name: Active/Preroll_MsiGb9rBMN.mkv
-  status: unused
-  sub_folder: Active
-- name: Xmas/Glitter_Tree_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Snow_Globe_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Christmas_Train_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Glitter_Snow_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Glitter_Merry_Christmas_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Christmas_Tree_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Plex_Snow_Preroll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Christmas_Card_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Santa_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Snowman_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Holiday_Sweater_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Winter_Ice_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Glitter_Trees_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Melting_Snow_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Plex_Magic_Snow_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Christmas_Ornaments_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Christmas_Lights_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Magic_Christmas_Tree_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Merry_Christmas_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Snowflakes_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Magical_Reindeer_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Winter_Snow_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Xmas/Winter_Forest_Lofi_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Xmas
-- name: Normal/Splash_Cartoon_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Glitch_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/TV_Glitch_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Neon_City_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Paint_Splash_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Fallout_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Neon_Icon_Sign_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Explosion_Reveal_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/plex_apocalypse_2022.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Numbers_Glitch_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Colorful_Swirls_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Cartoon_Ink_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Neon_Storm_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Pop_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Ribbon_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Abstract_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Calming_Neon_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Particles_Explosion_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Glitch_Style_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Glitch_Tape_Plex.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Colorful_Particles_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Fallout_4_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Sci-Fi_Trails_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Neon_Sign_Reflection_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/TV_Intro_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Standard_Plex_Pre-roll_with_Chime.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Plex_Live_TV_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Race_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Magic_Vortex_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Drums_Movie_Poster_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Developer_Coding_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/plex_ambience_2022.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Digital_Glitch_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Cinematic_Cards_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Modern_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Sleek_Short_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/plex_colorwheel_2022.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Water_Droplets_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Elegant_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Magic_Island_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Plex_preroll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Blue_Glitch_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Elegant_Light_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Lightning_Distortion_Plex.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Sci-Fi_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Vibrant_Plex_Pre-Roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Colorful_Transformation_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Windows_Error_Remix_Plex.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Neon_Reflection_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Nebula_Energy_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Colorful_Lights_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Plex_Fire_Preroll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Shape_Filling_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/BTTF_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Dubstep_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Neon_Plex_Movies_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Lens_Flare_Plex.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Liquid_Glitch_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Elegant_Short_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Laser_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Netflix_Colorful_Lines_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Colorful_Marbles_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Network_Glitch_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Normal/Netflix_Theater_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Normal
-- name: Black_History/Black_History_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Black_History
-- name: Halloween/Halloween_Bats_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Halloween
-- name: Halloween/Zombieland_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Halloween
-- name: Halloween/Ghost_Reveal_Plex.mkv
-  status: unused
-  sub_folder: Halloween
-- name: Halloween/Happy_Halloween_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Halloween
-- name: Halloween/Plex_Stranger_Things_Preroll.mkv
-  status: unused
-  sub_folder: Halloween
-- name: Halloween/Vault_Scary_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Halloween
-- name: Halloween/Vampire_Bats_Halloween_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Halloween
-- name: Halloween/Zombies_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Halloween
-- name: Halloween/Garage_Screams_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Halloween
-- name: Halloween/Halloween_Spider_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Halloween
-- name: Halloween/Blood_Splatter_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Halloween
-- name: Halloween/Horror_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Halloween
-- name: Halloween/Bloody_Horror_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Halloween
-- name: Halloween/Spooky_Halloween_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Halloween
-- name: Halloween/Monster_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Halloween
-- name: Fall/Fall_Fox_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Fall
-- name: Fall/Simple_Fall_Plex_Pre-roll.mkv
-  status: unused
-  sub_folder: Fall
-- name: Valentines/Valentines_Flowers_Plex.mkv
-  status: used
-  sub_folder: Valentines
-- name: Valentines/Valentines_Hearts_Plex.mkv
-  status: used
-  sub_folder: Valentines
-- name: Valentines/Cartoon_Valentines_Plex_Pre-roll.mkv
-  status: used
-  sub_folder: Valentines
-- name: "Funny/Don't Talk PSA\uFF1A Danny Trejo (R-rated version) [gwH2691KK_4].mkv"
-  status: used
-  sub_folder: Funny
-- name: Funny/f the police. [YRCmmJZRyJs].mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/William Shatner Loblaws commercial [I3Kh8Pii0p4].mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/Skibidi Preroll 2 [iJSDNoqoa7o].mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/Milwaukee County Transit spot [3kCvvjzMxeo].mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/Leonard Nimoy Beeper Commercial from 1979 [VeaqdM2fP0Y].mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/Wooden Salvatore [9ZTkHYJ3r-Y].mkv
-  status: used
-  sub_folder: Funny
-- name: Funny/Alamo at Home Quiet Zone [cp0Xsta77KE].mkv
-  status: used
-  sub_folder: Funny
-- name: Retro/KAET Station ID (1986) [_EsOSxQV3os].mkv
-  status: used
-  sub_folder: Retro
-- name: Black_History/Black History Month (1999) Bumper - Disney Channel [rc2MzXOr2Xc].mkv
-  status: used
-  sub_folder: Black_History
-- name: Black_History/BET Movies Starz 3  - Bumper -  Feature presentation Intro -  Commercial
-    (2000) [lOzIWhJK_kQ].mkv
-  status: unused
-  sub_folder: Black_History
-- name: Black_History/This TV Black History Month Bumper (2018) [5ClnxGYI-Bg].mkv
-  status: unused
-  sub_folder: Black_History
-- name: Black_History/Black History is American History - ABC Celebrates Black History
-    Month [XNCoxL_lnZY].mkv
-  status: used
-  sub_folder: Black_History
-- name: Pride/1981 NBC bumper- Our Pride is Showing [8-BdW0uSQ1E].mkv
-  status: unused
-  sub_folder: Pride
-- name: Pride2/Netflix_Pride_Colors.mkv
-  status: unused
-  sub_folder: Pride2
-- name: Pride2/1981 NBC bumper- Our Pride is Showing [8-BdW0uSQ1E].mkv
-  status: unused
-  sub_folder: Pride2
 - name: Funny/Max Headroom - Car Parts.mkv
   status: used
   sub_folder: Funny
 - name: Funny/Pepperoni Hug Spot.mkv
   status: used
   sub_folder: Funny
-- name: Black_History2/Black_History_Plex_Pre-roll.mkv
+- name: Normal/Nebula Energy Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Network Glitch Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Plex Fire Preroll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Shape Filling Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Numbers Glitch Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Neon Reflection Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Colorful Swirls Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Developer Coding Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Lens Flare Plex.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Elegant Short Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Water Droplets Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Fallout Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Neon Sign Reflection Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Vibrant Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Magic Island Plex Pre-Roll.mkv
   status: used
-  sub_folder: Black_History2
-- name: Black_History2/Black History is American History - ABC Celebrates Black History
-    Month [XNCoxL_lnZY].mkv
+  sub_folder: Normal
+- name: Normal/Splash Cartoon Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Plex Preroll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Laser Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Plex Live Tv Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Glitch Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Liquid Glitch Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Magic Vortex Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Explosion Reveal Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Plex Colorwheel 2022.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Plex Ambience 2022.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Colorful Transformation Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Tv Intro Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Colorful Particles Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Glitch Style Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Netflix Colorful Lines Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Modern Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Sleek Short Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Pop Plex Pre-Roll.mkv
   status: used
-  sub_folder: Black_History2
-- name: Black_History2/BET Movies Starz 3  - Bumper -  Feature presentation Intro
-    -  Commercial (2000) [lOzIWhJK_kQ].mkv
+  sub_folder: Normal
+- name: Normal/Paint Splash Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Dubstep Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Bttf Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Calming Neon Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Colorful Marbles Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Standard Plex Pre-Roll With Chime.mkv
   status: used
-  sub_folder: Black_History2
-- name: Black_History2/Black History Month (1999) Bumper - Disney Channel [rc2MzXOr2Xc].mkv
+  sub_folder: Normal
+- name: Normal/Glitch Tape Plex.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Neon City Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Blue Glitch Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Neon Plex Movies Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Lightning Distortion Plex.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Neon Icon Sign Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Tv Glitch Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Neon Storm Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Abstract Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Ribbon Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Fallout 4 Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Plex Apocalypse 2022.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Digital Glitch Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Race Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Sci-Fi Trails Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Cinematic Cards Plex Pre-Roll.mkv
   status: used
-  sub_folder: Black_History2
-- name: Black_History2/This TV Black History Month Bumper (2018) [5ClnxGYI-Bg].mkv
+  sub_folder: Normal
+- name: Normal/Colorful Lights Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Sci-Fi Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Elegant Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Particles Explosion Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Elegant Light Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Netflix Theater Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Cartoon Ink Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Normal
+- name: Normal/Drums Movie Poster Plex Pre-Roll.mkv
+  status: used
+  sub_folder: Normal
+- name: Normal/Windows Error Remix Plex.mkv
+  status: unused
+  sub_folder: Normal
+- name: Valentines/Valentines Hearts Plex.mkv
+  status: unused
+  sub_folder: Valentines
+- name: Valentines/Cartoon Valentines Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Valentines
+- name: Valentines/Valentines Flowers Plex.mkv
+  status: unused
+  sub_folder: Valentines
+- name: Thanksgiving/Happy Thanksgiving Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Thanksgiving
+- name: New_Years/New Years Fireworks Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: New_Years
+- name: New_Years/Happy New Year Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: New_Years
+- name: Fall/Simple Fall Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Fall
+- name: Fall/Fall Fox Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Fall
+- name: Funny/Milwaukee County Transit Spot [3Kcvvjzmxeo].mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/It Crowd Anti-Piracy Universal Pre-Roll.mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/Wooden Salvatore [9Ztkhyj3r-Y].mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/Keep Quiet Psa Universal Pre-Roll.mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/Alamo Drafthouse Shush Universal Pre-Roll.mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/F The Police. [Yrcmmjzryjs].mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/Nod Of Approval Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/Skibidi Preroll 2 [Ijsdnoqoa7o].mkv
+  status: unused
+  sub_folder: Funny
+- name: "Funny/Don't Talk Psa\uFF1A Danny Trejo (R-Rated Version) [Gwh2691kk 4].mkv"
+  status: used
+  sub_folder: Funny
+- name: Funny/Alamo Drafthouse Dont Talk Universal Pre-Roll.mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/Alamo At Home Quiet Zone [Cp0xsta77ke].mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/Forever Plexing Pre-Roll.mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/Shia Laboeuf V1 Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/No More Universal Pre-Roll.mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/Alamo Drafthouse No Talking Universal Pre-Roll.mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/Leonard Nimoy Beeper Commercial From 1979 [Veaqdm2fp0y].mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/William Shatner Loblaws Commercial [I3kh8pii0p4].mkv
+  status: unused
+  sub_folder: Funny
+- name: Funny/Meme Vibing Cat Pre-Roll.mkv
+  status: unused
+  sub_folder: Funny
+- name: Pride2/Netflix Pride Colors.mkv
+  status: unused
+  sub_folder: Pride2
+- name: Pride2/1981 Nbc Bumper- Our Pride Is Showing [8-Bdw0usq1e].mkv
+  status: unused
+  sub_folder: Pride2
+- name: Retro/Discowave Plex Pre-Roll.mkv
+  status: used
+  sub_folder: Retro
+- name: Retro/Retro Gaming Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Vhs Home Theater Plex V3.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Uber Vhs Style Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Cyberpunk Loading Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Vhs Home Theater Plex.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Our Feature Presentation Blue.mkv
+  status: used
+  sub_folder: Retro
+- name: Retro/Retro Vhs Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Kaet Station Id (1986) [ Esosxqv3os].mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Outrun Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Our Feature Presentation.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Retro Cbs Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Synth Dream Plex.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Miami Retrowave Plex.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Old Theater Film Intro Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Vhs Home Theater Plex V2.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/80S Vhs Synthwave Plex.mkv
+  status: used
+  sub_folder: Retro
+- name: Retro/Regal Cinemas  Rollercoaster.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/Miami 1982 Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Retro
+- name: Retro/80S Lambo Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Retro
+- name: Black_History2/Black History Month (1999) Bumper - Disney Channel [Rc2mzxor2xc].mkv
   status: unused
   sub_folder: Black_History2
+- name: Black_History2/Bet Movies Starz 3  - Bumper -  Feature Presentation Intro
+    -  Commercial (2000) [Loziwhjk Kq].mkv
+  status: unused
+  sub_folder: Black_History2
+- name: Black_History2/This Tv Black History Month Bumper (2018) [5Clnxgyi-Bg].mkv
+  status: unused
+  sub_folder: Black_History2
+- name: Black_History2/Black History Is American History - Abc Celebrates Black History
+    Month [Xncoxl Lnzy].mkv
+  status: unused
+  sub_folder: Black_History2
+- name: Black_History2/Black History Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Black_History2
+- name: Halloween/Spooky Halloween Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Horror Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Zombies Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Vampire Bats Halloween Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Plex Stranger Things Preroll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Garage Screams Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Halloween Bats Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Monster Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Bloody Horror Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Happy Halloween Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Ghost Reveal Plex.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Blood Splatter Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Vault Scary Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Zombieland Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Halloween/Halloween Spider Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Halloween
+- name: Xmas/Glitter Merry Christmas Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Christmas Card Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Winter Snow Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Christmas Train Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Glitter Tree Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Magic Christmas Tree Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Magical Reindeer Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Christmas Tree Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Christmas Lights Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Santa Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Snowflakes Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Winter Forest Lofi Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Glitter Snow Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Glitter Trees Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Plex Magic Snow Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Snowman Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Snow Globe Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Melting Snow Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Holiday Sweater Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Winter Ice Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Merry Christmas Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Plex Snow Preroll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Xmas/Christmas Ornaments Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Xmas
+- name: Spring/Growing Grass Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Spring
+- name: Spring/Spring Brush Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Spring
+- name: Spring/Happy Easter Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Spring
+- name: Spring/Dancing Butterflies Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Spring
+- name: Spring/Green Energy Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Spring
+- name: Spring/Sakura Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Spring
+- name: Spring/Blooming Flower Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Spring
+- name: Spring/Flower Field Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Spring
+- name: Black_History/Black History Month (1999) Bumper - Disney Channel [Rc2mzxor2xc].mkv
+  status: unused
+  sub_folder: Black_History
+- name: Black_History/Bet Movies Starz 3  - Bumper -  Feature Presentation Intro -  Commercial
+    (2000) [Loziwhjk Kq].mkv
+  status: unused
+  sub_folder: Black_History
+- name: Black_History/This Tv Black History Month Bumper (2018) [5Clnxgyi-Bg].mkv
+  status: unused
+  sub_folder: Black_History
+- name: Black_History/Black History Is American History - Abc Celebrates Black History
+    Month [Xncoxl Lnzy].mkv
+  status: unused
+  sub_folder: Black_History
+- name: Black_History/Black History Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Black_History
+- name: Pride/Netflix Pride Colors.mkv
+  status: unused
+  sub_folder: Pride
+- name: Pride/1981 Nbc Bumper- Our Pride Is Showing [8-Bdw0usq1e].mkv
+  status: unused
+  sub_folder: Pride
+- name: Summer/The Last Violin Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Summer
+- name: Summer/Summer Vibes Plex Pre-Roll.mkv
+  status: unused
+  sub_folder: Summer

@@ -1,7 +1,7 @@
 root:
   settings:
-    plex_url: "http://plexurl:32400/"
-    plex_token: "Your_X-Plex-Token"
+    plex_url: "http://10.0.0.91:32400/"
+    plex_token: "B2iPG5twd63LoBz5T1WS"
     source_folder: "/media/Pre-roll/prerollMedia"
     destination_folder: "/media/Pre-roll/active"
     log_file: "/media/Pre-roll/log/prerollRandomizer.log"

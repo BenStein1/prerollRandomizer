@@ -42,6 +42,9 @@ print(f"Config file: {config_file}")
 
 today = datetime.datetime.now().date()
 
+#Set how more probable it is to get a likely folder. ex. 4x
+likely_probability = 5
+
 #Get the width of the user's terminal
 terminal_width = shutil.get_terminal_size((80, 20)).columns
 
@@ -342,7 +345,7 @@ def get_eligible_sub_folders(config_data, log_file, today):
                 if exclusive:
                     exclusive_sub_folders.append(name)
                 elif likely:
-                    likely_sub_folders.extend([name]*4)
+                    likely_sub_folders.extend([name]*likely_probability)
                 else:
                     eligible_sub_folders.append(name)
         else:
